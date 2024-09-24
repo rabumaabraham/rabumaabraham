@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Rabuma Abraham Bekele 👋
 
-<!--
-**rabumaabraham/rabumaabraham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate Front-End Developer with a focus on creating responsive web applications. I enjoy turning ideas into reality through code and love collaborating with others on exciting projects.
 
-Here are some ideas to get you started:
+## Skills
+- **Languages & Frameworks:**
+  - HTML
+  - CSS
+  - JavaScript
+  - Tailwind CSS
+  - Basic C++
+  - Basic Python 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Version Control:**
+  - Git
+  - GitHub
+
+## Projects
+I have built responsive websites for various companies as a freelancer. My goal is to enhance user experience through clean and efficient code.
+
+## Goals
+I aim to collaborate with fellow developers and contribute to open-source projects to further improve my skills and knowledge in web development.
+
+## Connect with Me
+Feel free to reach out if you want to collaborate or just have a chat!
+- Email: iamrabuma@gmail.com
+
+Thanks for visiting my profile! 🚀
