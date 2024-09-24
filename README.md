@@ -25,5 +25,6 @@ I aim to collaborate with fellow developers and contribute to open-source projec
 ## Connect with Me
 Feel free to reach out if you want to collaborate or just have a chat!
 - Email: iamrabuma@gmail.com
+- LinkedIn: https://www.linkedin.com/in/rabuma/
 
 Thanks for visiting my profile! 🚀
