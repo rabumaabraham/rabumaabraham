@@ -10,7 +10,7 @@ I'm a passionate Front-End Developer focused on creating responsive web applicat
 
 ## 🎓 Skills:
 - **Languages & Frameworks**:
-  - **HTML** 🟦
+  - ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
   - **CSS** 🟩
   - **JavaScript** 🟨
   - **Tailwind CSS** 🌬️
