@@ -28,9 +28,9 @@ I've had the opportunity to work with diverse clients as a freelance developer, 
 I aim to collaborate with fellow developers and contribute to open-source projects to continually refine my skills in web development.
 
 ## 🌐 Connect with Me:
-- **Website**: [rabumaabraham.github.io](http://rabumaabraham.github.io/)
-- **Email**: [iamrabuma@gmail.com](mailto:iamrabuma@gmail.com)
-- **LinkedIn**: [Rabuma Abraham Bekele](https://www.linkedin.com/in/rabuma/)
-- **Instagram**: [@_rabuma](https://www.instagram.com/_rabuma/)
+- **Website**: rabumaabraham.github.io
+- **Email**: iamrabuma@gmail.com
+- **LinkedIn**: rabuma
+- **Instagram**: @_rabuma
 
 Thanks for visiting my profile! 🚀
