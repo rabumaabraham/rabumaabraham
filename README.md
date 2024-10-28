@@ -1,4 +1,4 @@
-# Hello world, I'm Rabuma 👋
+# Hello World, I'm Rabuma 👋
 
 ## 💫 About Me:
 I'm a passionate Front-End Developer focused on creating responsive web applications. I enjoy transforming ideas into interactive digital experiences and collaborating with others on innovative projects.
