@@ -31,6 +31,7 @@ I aim to collaborate with fellow developers and contribute to open-source projec
 - [Portfolio](http://rabumaabraham.github.io/)
 - [Email](mailto:iamrabuma@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/rabuma/)
+- [LeetCode](https://leetcode.com/u/rabuma/)
 - [Instagram](https://www.instagram.com/_rabuma/)
 
 Thanks for visiting my profile! 🚀
