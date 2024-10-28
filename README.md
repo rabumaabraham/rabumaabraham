@@ -10,7 +10,6 @@ I'm a passionate Front-End Developer focused on creating responsive web applicat
   ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 - 🔍 Expanding my knowledge of version control with 
   ![Git](https://img.icons8.com/color/48/000000/git.png) 
-  and 
   ![GitHub](https://img.icons8.com/color/48/000000/github.png)
 
 ## 🎓 Skills:
