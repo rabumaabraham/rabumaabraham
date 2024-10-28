@@ -1,4 +1,4 @@
-# Hi there, I'm Rabuma Abraham Bekele 👋
+# Hello world, I'm Rabuma Abraham Bekele 👋
 
 ## 💫 About Me:
 I'm a passionate Front-End Developer focused on creating responsive web applications. I enjoy transforming ideas into interactive digital experiences and collaborating with others on innovative projects.
