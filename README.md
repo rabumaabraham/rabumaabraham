@@ -15,8 +15,8 @@ I'm a passionate Front-End Developer focused on creating responsive web applicat
 
 ## 🎓 Skills:
 - **Languages**:
-  - ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
-  - ![CSS](https://img.icons8.com/color/48/000000/css3.png)
+  - ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png)
+  - 
   - ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
   - ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
   - ![Python](https://img.icons8.com/color/48/000000/python.png)
