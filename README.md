@@ -1,31 +1,28 @@
 # Hello World, I'm Rabuma 👋
 
 ## 💫 About Me:
-I'm a passionate Full-Stack Developer focused on creating responsive web applications. I enjoy transforming ideas into interactive digital experiences and collaborating with others on innovative projects.
+I am a passionate Full-Stack Developer focused on creating responsive and scalable web applications. I enjoy transforming ideas into interactive digital experiences and thrive in collaborative environments to bring innovative projects to life.
 
 ## 🚀 What I'm Up To:
-- 🌐 Building responsive web applications with 
-  ![HTML](https://img.icons8.com/color/48/000000/html-5.png) 
-  ![CSS](https://img.icons8.com/color/48/000000/css3.png) 
-  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-- 🔍 Expanding my knowledge of version control with 
-  ![Git](https://img.icons8.com/color/48/000000/git.png) 
-  ![GitHub](https://img.icons8.com/color/48/000000/github.png)
-
+- 🌐 Building responsive web applications with HTML, CSS, JavaScript
+- 🔍 Expanding my knowledge of version control with Git and GitHub
+- 🌱 Continuously learning and exploring technologies such as Node.js, MongoDB, React, Angular, and Vue.js
 
 ## 🎓 Skills:
 - **Languages**:
-  - ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![Python](https://img.icons8.com/color/48/000000/python.png)
-- **Developer Tools**:
-  - ![Git](https://img.icons8.com/color/48/000000/git.png) ![GitHub](https://img.icons8.com/color/48/000000/github.png) 
-
+  - HTML, CSS, JavaScript, C++, Python
+- **Frontend Development**:
+  - React, Angular, Vue.js
+- **Backend Development**:
+  - Node.js, Express.js, MongoDB
+- **Version Control**:
+  - Git, GitHub
 
 ## 📂 Projects:
-I've had the opportunity to work with diverse clients as a freelance developer, delivering responsive websites aimed at improving user experiences through clean, efficient code.
-
+I’ve had the privilege to work with diverse clients as a freelance developer and during internships, delivering responsive websites and applications that focus on improving user experience and functionality. 
 
 ## 🎯 Goals:
-I aim to collaborate with fellow developers and contribute to open-source projects to continually refine my skills in web development.
+I aim to collaborate with fellow developers and contribute to open-source projects to continually refine my skills in web development and expand my technical knowledge.
 
 ## 🌐 Connect with Me:
 - [Portfolio](http://rabumaabraham.github.io/)
