@@ -1,7 +1,7 @@
 # Hello World, I'm Rabuma 👋
 
 ## 💫 About Me:
-I am a passionate Full-Stack Developer focused on creating responsive and scalable web applications. I enjoy transforming ideas into interactive digital experiences and thrive in collaborative environments to bring innovative projects to life.
+I am a passionate Full Stack Developer focused on creating responsive and scalable web applications. I enjoy transforming ideas into interactive digital experiences and thrive in collaborative environments to bring innovative projects to life.
 
 ## 🚀 What I'm Up To:
 - 🌐 Building responsive web applications with HTML, CSS, JavaScript
