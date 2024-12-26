@@ -57,22 +57,22 @@ Thanks for visiting my profile! 🚀
 
 ## 🚀 What I'm Up To:
  
-🌐 Building responsive web applications with HTML, CSS, JavaScript**
+🌐 Building responsive web applications with HTML, CSS, JavaScript
 
-🔍 Expanding my knowledge of version control with Git and GitHub**
+🔍 Expanding my knowledge of version control with Git and GitHub
 
-🌱 Continuously learning and exploring technologies such as Node.js, MongoDB, React, Angular, and Vue.js**
+🌱 Continuously learning and exploring technologies such as Node.js, MongoDB, React, Angular, and Vue.js
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mailto:iamrabuma@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://linkedin.com/in/rabuma/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+  <a href="https://rabumaabraham.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
