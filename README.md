@@ -13,7 +13,7 @@
 ## 🚀 What I'm Up To:
 
 
-  🤖 Building AI-powered platforms at [Seeno AI](https://www.seenoai.com) for automation and chatbots 
+      🤖 Building AI-powered platforms at [Seeno AI](https://www.seenoai.com) for automation and chatbots 
   
   🛠️ Creating scalable full-stack applications for modern digital experiences  
   
