@@ -5,8 +5,7 @@
 </h1>
 </div>
 
-<h3 align="left">A passionate Full Stack Developer from Switzerland</h3>
-
+<h3 align="left">A passionate Full Stack Developer</h3>
 <br/>
 <hr/>
 
