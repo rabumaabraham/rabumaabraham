@@ -23,7 +23,7 @@
   
   🌍 Contributing to open source and collaborating on global tech projects  
 
-
+<hr>
  
 <div align="left"> 
   <a href="mailto:iamrabuma@gmail.com">
@@ -41,7 +41,7 @@
  
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
+<div align="left">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,mongodb,cpp,nextjs,mysql" /><br>
 </div>
