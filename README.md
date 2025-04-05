@@ -23,17 +23,17 @@
   
   🌍 Contributing to open source and collaborating on global tech projects  
 
-  Hello! I’m Rabuma Bekele. Currently, I’m focused on:
 
-🚀 Building AI-powered platforms for automation and chatbots.
+ Hello world! I'm Rabuma.
 
-🛠️ Creating scalable full-stack applications for modern experiences.
+✨ Currently, I'm diving into:
+- 🚀 Building AI-powered platforms for automation and chatbots.
+- 🛠️ Crafting scalable full-stack applications for seamless digital experiences.
+- 🎨 Designing intuitive and responsive user interfaces.
+- ☁️ Exploring cloud deployment workflows and modern DevOps practices.
+- 🌍 Contributing to open source and collaborating on exciting global tech projects.
 
-🎨 Designing intuitive and responsive web interfaces.
-
-☁️ Exploring cloud deployment and DevOps practices.
-
-🌍 Contributing to open source and collaborating on global tech projects.
+Let’s connect and create together!
 
 
 
