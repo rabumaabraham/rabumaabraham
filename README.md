@@ -1,11 +1,11 @@
 <hr/>
-<div align="left">
+<div align="center">
 <h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Rabuma!;" />
 </h1>
 </div>
 
-<h3 align="left">A passionate Full Stack Developer</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 <hr/>
 
 <div align="left">
@@ -25,7 +25,7 @@
 
 <hr>
  
-<div align="left"> 
+<div align="center"> 
   <a href="mailto:iamrabuma@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -39,9 +39,9 @@
 
  <hr/>
  
-<h2 align="left">⚒️ Tech Stack ⚒️</h2>
+<h2 align="center">⚒️ Tech Stack ⚒️</h2>
 <br/>
-<div align="left">
+<div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,mongodb,cpp,nextjs,mysql" /><br>
 </div>
