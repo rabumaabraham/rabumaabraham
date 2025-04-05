@@ -1,7 +1,9 @@
 <hr/>
-<h1 text-align="left">
+<div align="left">
+<h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Rabuma!;" />
 </h1>
+</div>
 
 <h3 align="left">A passionate Full Stack Developer from Switzerland</h3>
 
