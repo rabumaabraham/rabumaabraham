@@ -25,6 +25,32 @@
 
 
 
+  <hr/>
+<h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Rabuma!;" />
+</h1>
+
+<h3>A passionate Full Stack Developer from Switzerland</h3>
+
+<br/>
+<hr/>
+
+<div>
+
+## 🚀 What I'm Up To:
+
+  🤖 Building AI-powered platforms at [Seeno AI](https://www.seenoai.com) for automation and chatbots 
+  
+  🛠️ Creating scalable full-stack applications for modern digital experiences  
+  
+  🎨 Designing intuitive and responsive user interfaces for the web pages 
+  
+  ☁️ Exploring cloud deployment workflows and modern DevOps practices  
+  
+  🌍 Contributing to open source and collaborating on global tech projects 
+
+
+
  </div>
  
 <div align="center"> 
