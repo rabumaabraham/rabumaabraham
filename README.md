@@ -6,7 +6,6 @@
 </div>
 
 <h3 align="left">A passionate Full Stack Developer</h3>
-<br/>
 <hr/>
 
 <div align="left">
