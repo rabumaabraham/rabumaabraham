@@ -15,10 +15,11 @@
 ### 🚀 What I'm Up To
 
 - 🤖 Building AI-powered platforms at [Seeno AI](https://www.seenoai.com) for automation and chatbots  
-- 🛠️ Creating scalable full-stack apps using Node.js, MongoDB, and Express.js  
-- 🎨 Designing intuitive user interfaces with React, HTML, CSS, and JavaScript  
-- ☁️ Enhancing cloud skills with AWS and deploying apps using modern CI/CD tools  
-- 🌍 Contributing to open source and collaborating with global dev communities  
+- 🛠️ Creating scalable full-stack applications for modern digital experiences  
+- 🎨 Designing intuitive and responsive user interfaces for the web  
+- ☁️ Exploring cloud deployment workflows and modern DevOps practices  
+- 🌍 Contributing to open source and collaborating on global tech projects  
+
 
  
 🌐 Building responsive web applications with HTML, CSS, JavaScript
