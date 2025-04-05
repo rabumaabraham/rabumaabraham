@@ -39,7 +39,7 @@
 
  <hr/>
  
-<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="left">⚒️ Tech Stack ⚒️</h2>
 <br/>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git" />
