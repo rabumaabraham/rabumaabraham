@@ -11,6 +11,15 @@
 <div align="center">
 
 ## 🚀 What I'm Up To:
+
+### 🚀 What I'm Up To
+
+- 🤖 Building AI-powered platforms at [Seeno AI](https://www.seenoai.com) for automation and chatbots  
+- 🛠️ Creating scalable full-stack apps using Node.js, MongoDB, and Express.js  
+- 🎨 Designing intuitive user interfaces with React, HTML, CSS, and JavaScript  
+- ☁️ Enhancing cloud skills with AWS and deploying apps using modern CI/CD tools  
+- 🌍 Contributing to open source and collaborating with global dev communities  
+
  
 🌐 Building responsive web applications with HTML, CSS, JavaScript
 
