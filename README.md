@@ -9,7 +9,7 @@ Rabuma here! I'm a Full Stack Developer and AI Enthusiast.
 - ☁️ Exploring DevOps & Cloud workflows  
 - 🌍 Open source + global collaborations  
 
-📫 You can find me on [LinkedIn](https://linkedin.com/in/rabuma), [Portfolio](https://rabumaabraham.github.io), or email me at **iamrabuma@gmail.com**  
+Wanna 💬? You can find me on [LinkedIn](https://linkedin.com/in/rabuma), [Instagram](https://www.instagram.com/_rabuma/), or email **Rabuma Abraham**. 
 
 ---
 
