@@ -1,4 +1,4 @@
-# Hello world 👋
+# Hello World 👋
 
 Rabuma here! I'm a Full Stack Developer and AI Enthusiast.
 
