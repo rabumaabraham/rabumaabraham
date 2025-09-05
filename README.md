@@ -22,4 +22,3 @@ Currently building scalable apps and exploring AI-driven solutions.
 
 ### 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=rabumaabraham&show_icons=true&theme=react)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabumaabraham&layout=compact&theme=react)  
