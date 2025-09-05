@@ -3,7 +3,8 @@
 Rabuma here! I'm a Full Stack Developer and AI Enthusiast.  
 
 - 🚀 Currently building AI-powered platforms @ [Seeno AI](https://www.seenoai.com)  
-- 💻 Love crafting clean, responsive UIs and full-stack apps  
+- 🛠️ Scalable full-stack apps
+- 🎨 Clean, responsive UIs  
 - ☁️ Exploring DevOps & Cloud workflows  
 - 🌍 Open source + global collaborations  
 
