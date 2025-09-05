@@ -1,8 +1,9 @@
 # Hello world 👋
 
-Rabuma here! I'm a Full Stack Developer and AI Enthusiast.  
+Rabuma here! I'm a Full Stack Developer and AI Enthusiast.
 
-- 🚀 Currently building AI-powered platforms @ [Seeno AI](https://www.seenoai.com)  
+## 🔥 What I'm Working On:
+- 🚀 Automating tasks with AI @ [Seeno AI](https://www.seenoai.com)  
 - 🛠️ Scalable full-stack apps
 - 🎨 Clean, responsive UIs  
 - ☁️ Exploring DevOps & Cloud workflows  
