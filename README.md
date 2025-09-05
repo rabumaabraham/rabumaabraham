@@ -3,7 +3,7 @@
 Rabuma here! I'm a Full Stack Developer and AI Enthusiast.
 
 ## 🔥 What I'm Working On:
-- 🚀 Building AI-powered automation solutions 
+- 🚀 Building AI-powered automations
 - 🛠️ Scalable full-stack apps
 - 🎨 Clean, responsive UIs  
 - ☁️ Exploring DevOps & Cloud workflows  
