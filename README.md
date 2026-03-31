@@ -1,6 +1,6 @@
 ### Hello world 👋
 
-Rabuma here! I'm a Full Stack Developer and AI Enthusiast.
+Rabuma here! I'm a Software Engineer and AI Enthusiast.
 
 #### 📌 What I'm Working On:
 - 🚀 Building AI-powered automations
