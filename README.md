@@ -13,7 +13,7 @@ Rabuma here! I'm a Software Engineer and AI Enthusiast.
 
 ---
 
-## ✨ Connect with Me
+### ✨ Connect with Me
 
 <div align="left">
   <!--
