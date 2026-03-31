@@ -15,7 +15,7 @@ Rabuma here! I'm a Software Engineer and AI Enthusiast.
 
 ## ✨ Connect with Me
 
-<p align="center">
+<p align="left">
   <!--
   <a href="https://yourportfolio.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0078D7?style=flat-square&logo=google-chrome&logoColor=white"/>
