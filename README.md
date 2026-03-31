@@ -10,5 +10,3 @@ Rabuma here! I'm a Full Stack Developer and AI Enthusiast.
 - 🌍 Open source + global collaborations  
   
 🕸 Personal website [Portfolio](https://rabumaabraham.github.io)
-
-<img src="https://github-readme-stats.vercel.app/api?username=rabumaabraham&show_icons=true&theme=react&cache_seconds=86400" onerror="this.style.display='none'" />
