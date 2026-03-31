@@ -17,18 +17,18 @@ Rabuma here! I'm a Software Engineer and AI Enthusiast.
 
 <p align="center">
   <a href="https://rabuma.hashnode.dev" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hashnode.svg" alt="Hashnode" width="30" height="30"/>
+    <img src="https://img.shields.io/badge/Hashnode-03A57A?style=flat-square&logo=hashnode&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/your-username/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" alt="LeetCode" width="30" height="30"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
   </a>
   <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" alt="Portfolio" width="30" height="30"/>
+    <img src="https://img.shields.io/badge/Portfolio-0078D7?style=flat-square&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://gitlab.com/your-username/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gitlab.svg" alt="GitLab" width="30" height="30"/>
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
   </a>
 </p>
