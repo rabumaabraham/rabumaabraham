@@ -21,16 +21,16 @@ Rabuma here! I'm a Software Engineer and AI Enthusiast.
     <img src="https://img.shields.io/badge/Portfolio-0078D7?style=flat-square&logo=google-chrome&logoColor=white"/>
   </a>
   -->
-  <a href="https://leetcode.com/your-username/" target="_blank">
+  <a href="https://leetcode.com/u/rabuma" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
   </a>
-  <a href="https://gitlab.com/your-username/" target="_blank">
+  <a href="https://gitlab.com/rabumaabraham" target="_blank">
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/rabuma" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://rabuma.hashnode.dev" target="_blank">
+  <a href="https://hashnode.com/@rabuma" target="_blank">
     <img src="https://img.shields.io/badge/Hashnode-03A57A?style=flat-square&logo=hashnode&logoColor=white"/>
   </a>
 </p>
