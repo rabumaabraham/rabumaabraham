@@ -3,13 +3,11 @@
 Rabuma here! I'm a Software Engineer and AI Enthusiast.
 
 #### 📌 What I'm Working On:
-- 🚀 Building AI-powered automations
-- 🛠️ Scalable full-stack apps
-- 🎨 Clean, responsive UIs  
-- ☁️ Exploring DevOps & Cloud workflows  
-- 🌍 Open source + global collaborations  
-  
-🕸 Personal website [Portfolio](https://rabumaabraham.github.io)
+- Building AI-powered automations
+- Scalable full-stack apps
+- Clean, responsive UIs  
+- Exploring DevOps & Cloud workflows  
+- Open source + global collaborations  
 
 ---
 
