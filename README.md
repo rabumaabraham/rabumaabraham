@@ -40,3 +40,8 @@ Rabuma here! I'm a Software Engineer and AI Enthusiast.
     <img src="https://img.shields.io/badge/Hashnode-03A57A?style=flat-square&logo=hashnode&logoColor=white"/>
   </a>
 </div>
+
+
+### Connect
+
+Reach out via [LinkedIn](https://www.linkedin.com/in/rabuma), explore my work on [GitLab](https://gitlab.com/rabumaabraham) and [LeetCode](https://leetcode.com/u/rabuma), read my thoughts on [Hashnode](https://hashnode.com/@rabuma), check out my [portfolio](https://rabumaabraham.github.io), or just send me an email at [iamrabuma@gmail.com](mailto:iamrabuma@gmail.com).
