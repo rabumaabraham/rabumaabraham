@@ -44,4 +44,4 @@ Rabuma here! I'm a Software Engineer and AI Enthusiast.
 
 ### Connect
 
-Wanna connect? You can find me on [LinkedIn](https://www.linkedin.com/in/rabuma), [GitLab](https://gitlab.com/rabumaabraham), [LeetCode](https://leetcode.com/u/rabuma), read me on [Hashnode](https://hashnode.com/@rabuma), check out my [portfolio](https://rabumaabraham.github.io), or email me at [iamrabuma@gmail.com](mailto:iamrabuma@gmail.com).
+You can find me on [LinkedIn](https://www.linkedin.com/in/rabuma), [GitLab](https://gitlab.com/rabumaabraham), [LeetCode](https://leetcode.com/u/rabuma), read me on [Hashnode](https://hashnode.com/@rabuma), check out my [portfolio](https://rabumaabraham.github.io), or email me here [Rabuma](mailto:iamrabuma@gmail.com).
