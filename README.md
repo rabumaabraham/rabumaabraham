@@ -1,6 +1,6 @@
 ### Hello world!
 
-I'm a Software Engineer interested in full-stack development, open source, AI, automation, and cloud technologies. I enjoy exploring codebases, building useful features, and contributing to projects.
+I'm a Software Engineer focused on full-stack development, open source, AI, automation, and cloud technologies.
 
 ---
 
