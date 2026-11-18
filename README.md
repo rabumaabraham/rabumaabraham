@@ -1,11 +1,10 @@
 ### Hello world!
 
-- I'm a Software Engineer working on full-stack applications, backend development, and open-source projects.
-- I'm interested in AI, automation, DevOps, cloud technologies, and exploring new tools and technologies.
+I'm a Software Engineer interested in full-stack development, open source, AI, automation, and cloud technologies. I enjoy exploring codebases, building useful features, and contributing to projects.
 
 ---
 
-## Open Source Contributions
+### Open Source Contributions
 
 **[The Apache Software Foundation](https://github.com/apache)**
 - [Apache Superset](https://github.com/apache/superset) → [Merged PRs ↗](https://github.com/apache/superset/pulls?q=is%3Apr+state%3Amerged+author%3Arabumaabraham)
